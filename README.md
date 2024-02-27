@@ -42,21 +42,27 @@ Make sure to replace "your-username" and "readme-generator" with the actual GitH
     4.Review and modify the generated README file as needed for your project.
 
 
+   ![Alt Text](<./assets/image/Screenshot-readme.md.png >)  
+
    ![Alt Text](<./assets/image/Screenshot terminal.png >)  
 
 
+## Built With
 
+* JavaScript
+* NPM
+* NODEJS
 
 ## Contributors
 
 
-Include those who contribute to your project as contributors.
+N/A
 
 
 ## Tests
 
 
-Add test guidelines to your project.
+N/A
 
 
 ## License
